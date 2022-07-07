@@ -4,4 +4,4 @@
 
  A simple website that generates qr code from a given text.
 
-## [Website]()
+## [Website](https://viduxsh.github.io/qr-code-generator/)
